@@ -36,7 +36,7 @@ for msg in st.session_state.messages:
      st.chat_message(msg["role"]).write(['content'])
      
 ## Prompt
-prompt=st.chat_input(placeholder="What is AI")
+prompt=st.chat_input(placeholder="Enter your Query")
 if prompt:
      st.session_state.messages.append({"role":"user","content":prompt})
      st.chat_message("user").write(prompt)
