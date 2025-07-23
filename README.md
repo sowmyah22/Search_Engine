@@ -26,13 +26,9 @@ This is a conversational AI chatbot built using Streamlit, LangChain, and Groq L
 | `Arxiv`      | Scientific paper search                     |
 | `DuckDuckGo` | Real-time web search                        |
 
-📁 File Structure
-
-├── app.py               # Main Streamlit application
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
 
 📸 Preview
+Search Engine 
 ![Chatbot Preview](./image1.png)
 
 
