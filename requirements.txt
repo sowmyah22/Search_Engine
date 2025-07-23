@@ -6,3 +6,5 @@ python-dotenv
 duckduckgo-search
 validators
 nltk
+arxiv
+
