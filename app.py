@@ -33,7 +33,7 @@ if st.sidebar.button("Clear Chat"):
 
 ## Display the chat
 for msg in st.session_state.messages:
-     st.chat_message(msg["role"]).write(['content'])
+     st.chat_message(msg["role"]).write(msg['content'])
      
 ## Prompt
 prompt=st.chat_input(placeholder="Enter your Query")
