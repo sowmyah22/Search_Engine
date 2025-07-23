@@ -29,10 +29,10 @@ This is a conversational AI chatbot built using Streamlit, LangChain, and Groq L
 
 📸 Preview
 Search Engine 
-![Chatbot Preview](./1.png)
+![Chatbot Preview](./images/1.png)
 
 
-![Chatbot Preview](./2.png)
+![Chatbot Preview](./images/2.png)
 
 
 
